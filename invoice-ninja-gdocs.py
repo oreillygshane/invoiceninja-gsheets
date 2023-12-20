@@ -5,7 +5,7 @@ import json
 import os
 
 
-# import variables from config.py
+# import variabales from config.py
 from config import INVOICE_NINJA_API_KEY, INVOICE_NINJA_BASE_URL, INVOICE_NINJA_SECRET_KEY, SHEET_ID, STARTING_CELL, GOOGLE_SHEETS_CREDENTIALS_FILE
 
 
